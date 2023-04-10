@@ -17,3 +17,4 @@ The terminals shine like stars.
 
 -- Geoffrey James, The Zen of Programming
 ```
+![metrics](https://github.com/raskchanky/raskchanky/blob/main/github-metrics.svg)
